@@ -76,6 +76,9 @@ The first part of the code defines the user interface (UI) of the app using the 
 The second part of the code defines the server-side logic using the server function. The server function is responsible for processing user input, creating reactive data frames, and generating the output for the UI. The reactive function is used to create a reactive data frame based on the user's input region. The renderPlot function is used to generate the correlation matrix and prediction plot based on the reactive data frame.
 Finally, the shinyApp function is used to run the app by passing in the UI and server functions as arguments.
 
+<img width="1440" alt="Screen Shot 2023-04-13 at 7 40 41 PM" src="https://user-images.githubusercontent.com/112992643/231912487-fc9c662a-ee9e-4f11-aa8f-cdb166610856.png">
+
+
 <img width="779" alt="Screen Shot 2023-03-29 at 1 28 57 PM" src="https://user-images.githubusercontent.com/75454891/228659871-868cda63-2fce-449f-8b0a-7864ea3eb580.png">
 
 The first Shiny app in the code provided allows the user to select two teams and it predicts which one will win based on the seed number and win percentage of the teams. It also displays a scatter plot comparing the two teams' seed number and win percentage.
