@@ -83,3 +83,6 @@ Finally, the shinyApp function is used to run the app by passing in the UI and s
 
 The first Shiny app in the code provided allows the user to select two teams and it predicts which one will win based on the seed number and win percentage of the teams. It also displays a scatter plot comparing the two teams' seed number and win percentage.
 The second Shiny app allows the user to select a region, and it displays a correlation matrix plot of the seed number and win percentage of all teams in that region. It also displays a scatter plot of all the teams in the selected region, with the y-axis representing the seed number and the x-axis representing the win-loss record. The plot colors the teams based on their win percentage and labels each point with the team name. The plot provides a visual prediction of which team is likely to win based on their seed number and win-loss record.
+
+# URL FOR SHINY APP 
+https://eyoelmulugetadata332.shinyapps.io/Teamcomparisonformarchmadness/ 
